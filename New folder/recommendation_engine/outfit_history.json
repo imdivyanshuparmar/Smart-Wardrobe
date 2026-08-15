@@ -1,0 +1,962 @@
+[
+    {
+        "top": "top4",
+        "bottom": "bottom1",
+        "shoe": "shoe1",
+        "occasion": "formal"
+    },
+    {
+        "top": "top4",
+        "bottom": "bottom1",
+        "shoe": "shoe2",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "top2",
+        "bottom": "bottom2",
+        "shoe": "shoe3",
+        "occasion": "casual"
+    },
+    {
+        "top": "top3",
+        "bottom": "bottom4",
+        "shoe": "shoe2",
+        "occasion": "daily"
+    },
+    {
+        "top": "top1",
+        "bottom": "bottom1",
+        "shoe": "shoe1",
+        "occasion": "formal"
+    },
+    {
+        "top": "top4",
+        "bottom": "bottom3",
+        "shoe": "shoe2",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "top2",
+        "bottom": "bottom4",
+        "shoe": "shoe3",
+        "occasion": "casual"
+    },
+    {
+        "top": "top3",
+        "bottom": "bottom4",
+        "shoe": "shoe3",
+        "occasion": "daily"
+    },
+    {
+        "top": "top1",
+        "bottom": "bottom1",
+        "shoe": "shoe2",
+        "occasion": "formal"
+    },
+    {
+        "top": "top1",
+        "bottom": "bottom1",
+        "shoe": "shoe2",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "top2",
+        "bottom": "bottom2",
+        "shoe": "shoe2",
+        "occasion": "casual"
+    },
+    {
+        "top": "top1",
+        "bottom": "bottom1",
+        "shoe": "shoe2",
+        "occasion": "daily"
+    },
+    {
+        "top": "top1",
+        "bottom": "bottom2",
+        "shoe": "shoe1",
+        "occasion": "formal"
+    },
+    {
+        "top": "top2",
+        "bottom": "bottom1",
+        "shoe": "shoe2",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "top1",
+        "bottom": "bottom2",
+        "shoe": "shoe1",
+        "occasion": "casual"
+    },
+    {
+        "top": "top1",
+        "bottom": "bottom2",
+        "shoe": "shoe2",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b43304481e149cf1b5f098",
+        "bottom": "69b43c9c825371b37b6e9333",
+        "shoe": "69b52a8a3bbdeb08f73b701b",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b43304481e149cf1b5f098",
+        "bottom": "69b43c9c825371b37b6e9333",
+        "shoe": "69b52a8a3bbdeb08f73b701b",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b43304481e149cf1b5f098",
+        "bottom": "69b43e289460af67abe7df34",
+        "shoe": "69b52a8a3bbdeb08f73b701b",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b43304481e149cf1b5f098",
+        "bottom": "69b43c9c825371b37b6e9333",
+        "shoe": "69b52a8a3bbdeb08f73b701b",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b43304481e149cf1b5f098",
+        "bottom": "69b43c9c825371b37b6e9333",
+        "shoe": "69b52b613bbdeb08f73b704e",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b43304481e149cf1b5f098",
+        "bottom": "69b43c9c825371b37b6e9333",
+        "shoe": "69b52b613bbdeb08f73b704e",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b43304481e149cf1b5f098",
+        "bottom": "69b43e289460af67abe7df34",
+        "shoe": "69b52b613bbdeb08f73b704e",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b43304481e149cf1b5f098",
+        "bottom": "69b43c9c825371b37b6e9333",
+        "shoe": "69b52b613bbdeb08f73b704e",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b43304481e149cf1b5f098",
+        "bottom": "69b43f0fedb4c52dfa5aa646",
+        "shoe": "69b52a8a3bbdeb08f73b701b",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b43304481e149cf1b5f098",
+        "bottom": "69b43f0fedb4c52dfa5aa646",
+        "shoe": "69b52a8a3bbdeb08f73b701b",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b4329d481e149cf1b5f093",
+        "bottom": "69b43e289460af67abe7df34",
+        "shoe": "69b52a8a3bbdeb08f73b701b",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b43304481e149cf1b5f098",
+        "bottom": "69b43f0fedb4c52dfa5aa646",
+        "shoe": "69b52a8a3bbdeb08f73b701b",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b43304481e149cf1b5f098",
+        "bottom": "69b43f0fedb4c52dfa5aa646",
+        "shoe": "69b52b613bbdeb08f73b704e",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b43304481e149cf1b5f098",
+        "bottom": "69b43f0fedb4c52dfa5aa646",
+        "shoe": "69b52b613bbdeb08f73b704e",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b4329d481e149cf1b5f093",
+        "bottom": "69b43e289460af67abe7df34",
+        "shoe": "69b52b613bbdeb08f73b704e",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b43304481e149cf1b5f098",
+        "bottom": "69b43f0fedb4c52dfa5aa646",
+        "shoe": "69b52b613bbdeb08f73b704e",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b521cc325e204caac0f5c6",
+        "bottom": "69b43c9c825371b37b6e9333",
+        "shoe": "69b52a8a3bbdeb08f73b701b",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b4329d481e149cf1b5f093",
+        "bottom": "69b43c9c825371b37b6e9333",
+        "shoe": "69b52a8a3bbdeb08f73b701b",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b43e921d792ee25a60e802",
+        "bottom": "69b43e289460af67abe7df34",
+        "shoe": "69b52a8a3bbdeb08f73b701b",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b4329d481e149cf1b5f093",
+        "bottom": "69b43c9c825371b37b6e9333",
+        "shoe": "69b52a8a3bbdeb08f73b701b",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b5433f91cd90d07314494b",
+        "bottom": "69b5468791cd90d073144983",
+        "shoe": "69b544bf91cd90d07314495d",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b5433f91cd90d07314494b",
+        "bottom": "69b5468791cd90d073144983",
+        "shoe": "69b544bf91cd90d07314495d",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b5433f91cd90d07314494b",
+        "bottom": "69b5468791cd90d073144983",
+        "shoe": "69b544bf91cd90d07314495d",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b5433f91cd90d07314494b",
+        "bottom": "69b5468791cd90d073144983",
+        "shoe": "69b544bf91cd90d07314495d",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b595d0dbe23cd24f43ea3d",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b595d0dbe23cd24f43ea3d",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b595d0dbe23cd24f43ea3d",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b595d0dbe23cd24f43ea3d",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b595d0dbe23cd24f43ea3d",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b595d0dbe23cd24f43ea3d",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b595d0dbe23cd24f43ea3d",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b595d0dbe23cd24f43ea3d",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b59949eedf8f885fa79320",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b59949eedf8f885fa79320",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b59949eedf8f885fa79320",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b59949eedf8f885fa79320",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b5998eeedf8f885fa79325",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b5998eeedf8f885fa79325",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b5998eeedf8f885fa79325",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b5998eeedf8f885fa79325",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b59949eedf8f885fa79320",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b59949eedf8f885fa79320",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b59949eedf8f885fa79320",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b59949eedf8f885fa79320",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b5998eeedf8f885fa79325",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b5998eeedf8f885fa79325",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b5998eeedf8f885fa79325",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b5998eeedf8f885fa79325",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b595d0dbe23cd24f43ea3d",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b595d0dbe23cd24f43ea3d",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b595d0dbe23cd24f43ea3d",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b595d0dbe23cd24f43ea3d",
+        "bottom": "69b599c3eedf8f885fa7932a",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "formal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "semiFormal"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "casual"
+    },
+    {
+        "top": "69b597fa8eb3769ec458ec08",
+        "bottom": "69b599eeeedf8f885fa7932f",
+        "shoe": "69b59a25eedf8f885fa79334",
+        "occasion": "daily"
+    }
+]

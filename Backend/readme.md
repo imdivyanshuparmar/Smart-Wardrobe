@@ -1,0 +1,1 @@
+CLOUDINARY_URL=cloudinary://<your_api_key>:<your_api_secret>@dmnye3vep

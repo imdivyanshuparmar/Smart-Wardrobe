@@ -1,0 +1,7 @@
+{
+  "name": "Smart Outfit Recommendation System",
+  "description": "A modern, AI-powered fashion assistant for college students and young professionals, providing personalized outfit suggestions based on body profile and uploaded clothing items.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
